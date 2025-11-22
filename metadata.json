@@ -1,0 +1,5 @@
+{
+  "name": "DocuSum AI",
+  "description": "Intelligent document summarization for PDF and Word files using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
